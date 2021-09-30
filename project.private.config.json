@@ -1,0 +1,90 @@
+{
+     "setting": {},
+     "condition": {
+          "plugin": {
+               "list": []
+          },
+          "game": {
+               "list": []
+          },
+          "gamePlugin": {
+               "list": []
+          },
+          "miniprogram": {
+               "list": [
+                    {
+                         "name": "商品列表",
+                         "pathName": "pages/goods_list/index",
+                         "query": "",
+                         "scene": null
+                    },
+                    {
+                         "name": "商品分类",
+                         "pathName": "pages/category/index",
+                         "query": "cid=5",
+                         "scene": null
+                    },
+                    {
+                         "name": "商品列表",
+                         "pathName": "pages/goods_list/index",
+                         "query": "cid=5",
+                         "scene": null
+                    },
+                    {
+                         "name": "主页面",
+                         "pathName": "pages/index/index",
+                         "query": "cid=5",
+                         "scene": null
+                    },
+                    {
+                         "name": "商品行情 ",
+                         "pathName": "pages/goods_detail/index",
+                         "query": "goods_id=43985",
+                         "scene": null
+                    },
+                    {
+                         "name": "购物车",
+                         "pathName": "pages/cart/index",
+                         "query": "cid=5",
+                         "scene": null
+                    },
+                    {
+                         "name": "登录",
+                         "pathName": "pages/login/index",
+                         "query": "",
+                         "scene": null
+                    },
+                    {
+                         "name": "个人中心",
+                         "pathName": "pages/user/index",
+                         "query": "",
+                         "scene": null
+                    },
+                    {
+                         "name": "支付界面",
+                         "pathName": "pages/pay/index",
+                         "query": "",
+                         "scene": null
+                    },
+                    {
+                         "name": "订单详情",
+                         "pathName": "pages/order/index",
+                         "query": "type=1",
+                         "scene": null
+                    },
+                    {
+                         "name": "收藏",
+                         "pathName": "pages/collect/index",
+                         "query": "goods_id=43985",
+                         "scene": null
+                    },
+                    {
+                         "name": "搜索界面",
+                         "pathName": "pages/search/index",
+                         "query": "goods_id=43985",
+                         "scene": null
+                    }
+               ]
+          }
+     }
+}
